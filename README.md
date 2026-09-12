@@ -1,6 +1,6 @@
 # shorthack
 
-чтобы запустить нужно скачать все файлы и в терминали ввести команду streamlit run app.py
+чтобы запустить нужно скачать все файлы и в терминали ввести команду streamlit run app.py так сказал клод, я запускал с помощью \Python>\Users\79998\AppData\Local\Programs\Python\Python311\python.exe -m streamlit run app.py
 
 установить библиотеки из requirements
 
